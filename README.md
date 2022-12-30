@@ -6,8 +6,11 @@
   </a>
   <h4>Virtual whiteboard for sketching hand-drawn like diagrams.<br>Collaborative and end-to-end encrypted.</h4>
 </div>
+
 ## Documentation
+
 To view the Timeline and Todo for this project see [[MyReadme|MyReadme]]
+
 ### Shortcuts
 
 You can almost do anything with shortcuts. Click on the help icon on the bottom right corner to see them all.
